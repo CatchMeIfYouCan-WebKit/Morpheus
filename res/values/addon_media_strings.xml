@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Audio Recording -->
+    <string name="mp_addon_audiorecoder_stop">Recoding</string>
+    <string name="mp_addon_audiorecoder_recoding">Ready</string>
+    <string name="mp_addon_audiorecoder_list">목록</string>
+    <string name="mp_addon_audiorecoder_save_complete">저장이 완료 되었습니다.</string>
+
+    <!-- Media Player -->
+    <string name="fullscreenBtn">전체 스크린</string>
+    <string name="originscreenBtn">기본 스크린</string>
+    <string name="cancelBtn">취소 버튼</string>
+
+    <!-- About Take Photo & Movie (media)-->
+    <string name="mp_addon_media_please_wait">잠시만 기다려주세요.</string>
+    <string name="mp_addon_maxpicker">사진은 총 %d개까지만 첨부 가능합니다.</string>
+
+    <string name="album_name_all">전체보기</string>
+    <string name="preview">선택 모아보기</string>
+
+    <string name="error_no_video_activity">비디오 미리보기를 지원하는 앱을 찾을 수 없습니다.</string>
+
+    <string name="error_single_select">하나만 선택가능 합니다.</string>
+
+    <string name="error_total_selectable_count">제한 개수 20개를 초과하였습니다.</string>
+    <string name="error_one_video_selectable_mb">20MB 이상 첨부 불가합니다.</string>
+    <string name="error_total_selectable_mb">제한 용량 30MB를 초과하였습니다.</string>
+
+
+    <string-array name="album_type">
+        <item>이미지</item>
+        <item>비디오</item>
+    </string-array>
+</resources>

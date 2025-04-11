@@ -1,0 +1,17 @@
+.wPaint-theme-classic.wPaint-theme-standard .wPaint-menu .wPaint-menu-name-main {
+  display: flex;
+  flex-direction: column;
+  width: 50px;
+  align-items: center;;
+}
+
+.wPaint-theme-classic.wPaint-theme-standard .wPaint-menu .wPaint-menu-handle {
+  width: 100%;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 7px;
+}
+
+.wPaint-theme-classic.wPaint-theme-standard .wPaint-menu .wPaint-menu-icon {
+ text-align: center; 
+ margin: 3px 0;
+}

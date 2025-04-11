@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="60dp"
+    android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerVertical="true"
+        app:cardCornerRadius="@dimen/media_grid_corner_radius"
+        app:cardElevation="0dp">
+
+        <ImageView
+            android:id="@+id/img_thumbnail"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:scaleType="centerCrop" />
+
+        <ImageView
+            android:id="@+id/img_play_video"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_photo_play" />
+    </androidx.cardview.widget.CardView>
+
+    <ImageView
+        android:id="@+id/img_del"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/bg_selector_btn_del"
+        android:src="@drawable/btn_photo_thum_del_mini" />
+
+</RelativeLayout>
