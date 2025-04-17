@@ -32,20 +32,28 @@
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable/qr_close_btn.png"
     },
     {
-        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-night-xxhdpi_btn_title_lang_bk.png.flat",
-        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-night-xxhdpi/btn_title_lang_bk.png"
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/anim_core_hold.xml.flat",
-        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/anim/core_hold.xml"
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-night-xxhdpi_btn_title_lang_bk.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-night-xxhdpi/btn_title_lang_bk.png"
     },
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-night-xhdpi_ic_photo_play_big.png.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-night-xhdpi/ic_photo_play_big.png"
     },
     {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/anim_core_hold.xml.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/anim/core_hold.xml"
+    },
+    {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable_round_bg.xml.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable/round_bg.xml"
+    },
+    {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-xxxhdpi_btn_title_lang_bk.png.flat",
@@ -68,16 +76,20 @@
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/layout/addon_media_crop_cropimage.xml"
     },
     {
-        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable_addon_popup_picker_input_selected.9.png.flat",
-        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable/addon_popup_picker_input_selected.9.png"
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/layout_selected_list_item.xml.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/layout/selected_list_item.xml"
     },
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-hdpi_tab_shadow.9.png.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-hdpi/tab_shadow.9.png"
     },
     {
-        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/layout_selected_list_item.xml.flat",
-        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/layout/selected_list_item.xml"
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable_addon_popup_picker_input_selected.9.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable/addon_popup_picker_input_selected.9.png"
     },
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable_addon_popup_picker_down_normal.9.png.flat",
@@ -212,12 +224,12 @@
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-night-hdpi/mp_btn_title_close.png"
     },
     {
-        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable_round_bg_gray.xml.flat",
-        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable/round_bg_gray.xml"
-    },
-    {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/layout_activity_barcode.xml.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/layout/activity_barcode.xml"
+    },
+    {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable_round_bg_gray.xml.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable/round_bg_gray.xml"
     },
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-xhdpi_ic_attach_camera.png.flat",
@@ -292,12 +304,24 @@
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/anim/core_slide_right_in.xml"
     },
     {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "mcore.edu.iitpsw-merged_res-27:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
         "source": "mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-xhdpi/ic_launcher_monochrome.png"
     },
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-xhdpi_btn_title_more.png.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-xhdpi/btn_title_more.png"
+    },
+    {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
     },
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable_addon_media_rec_btn_list.xml.flat",
@@ -322,6 +346,10 @@
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable_addon_popup_picker_up_normal.9.png.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable/addon_popup_picker_up_normal.9.png"
+    },
+    {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-hdpi_ic_photo_play_big.png.flat",
@@ -396,10 +424,6 @@
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable/addon_popup_picker_up_pressed.9.png"
     },
     {
-        "merged": "mcore.edu.iitpsw-merged_res-27:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-night-xxxhdpi_btn_title_lang_bk.png.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-night-xxxhdpi/btn_title_lang_bk.png"
     },
@@ -426,6 +450,10 @@
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/anim_core_zoom_enter.xml.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/anim/core_zoom_enter.xml"
+    },
+    {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-mdpi/ic_launcher_monochrome.png"
     },
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable_flash_on.png.flat",
@@ -458,6 +486,10 @@
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-hdpi_addon_media_bottom_btn_stop_s.png.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-hdpi/addon_media_bottom_btn_stop_s.png"
+    },
+    {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-xxhdpi/ic_launcher_monochrome.png"
     },
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable_addon_popup_picker_input_normal.9.png.flat",
@@ -528,12 +560,20 @@
         "source": "mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-hdpi/ic_launcher_background.png"
     },
     {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/anim_core_slide_bottom_in.xml.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/anim/core_slide_bottom_in.xml"
     },
     {
         "merged": "mcore.edu.iitpsw-merged_res-27:/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-hdpi/ic_launcher_monochrome.png"
     },
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable_addon_popup_picker_down_selected.9.png.flat",
@@ -696,6 +736,10 @@
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/layout/listitem.xml"
     },
     {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-night-hdpi_ic_photo_play.png.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-night-hdpi/ic_photo_play.png"
     },
@@ -730,6 +774,14 @@
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-night-hdpi_ic_photo_play_big.png.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-night-hdpi/ic_photo_play_big.png"
+    },
+    {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-xhdpi/ic_launcher_monochrome.png"
     },
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-night-xhdpi_btn_photo_thum_del_mini.png.flat",
@@ -804,6 +856,10 @@
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-night-hdpi/btn_title_more.png"
     },
     {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-night-xxxhdpi_btn_title_more.png.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-night-xxxhdpi/btn_title_more.png"
     },
@@ -852,6 +908,10 @@
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-night-xhdpi/btn_photo_thum_detail.png"
     },
     {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/layout_addon_popup_date_picker_dialog.xml.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/layout/addon_popup_date_picker_dialog.xml"
     },
@@ -888,6 +948,10 @@
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-hdpi/addon_media_record_bg.png"
     },
     {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-mdpi_btn_title_more.png.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-mdpi/btn_title_more.png"
     },
@@ -898,6 +962,10 @@
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-night-mdpi_btn_photo_thum_del_mini.png.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-night-mdpi/btn_photo_thum_del_mini.png"
+    },
+    {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-xhdpi_addon_media_record_menu_bg.png.flat",
@@ -1004,8 +1072,16 @@
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/anim/mp_bottom_slide_up.xml"
     },
     {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-hdpi_addon_media_bottom_btn_record_n.png.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/drawable-hdpi/addon_media_bottom_btn_record_n.png"
+    },
+    {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-mdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/drawable-xhdpi_addon_media_crop_btn_crop_pressed.9.png.flat",
@@ -1026,6 +1102,10 @@
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/anim_core_slide_left_in.xml.flat",
         "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/anim/core_slide_left_in.xml"
+    },
+    {
+        "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-IITP_SW_MORPHEUS-28:/mipmap-xhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/jojinhyeok/.gradle/daemon/7.3.3/mcore.edu.iitpsw-merged_res-27:/layout_mp_album_list_item.xml.flat",
